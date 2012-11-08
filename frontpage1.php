@@ -58,16 +58,6 @@ Template Name: Frontpage 1
 </div><!-- front-boxes-wider2 ends-->
 </div><!-- front-boxes2 ends-->
 
-
-
-
-<div class="activityWrapper">
-  <?php require 'activity/activity-loop.php'; ?>
-</div>
-
-
-
-
 <div class="frontpage-bottom">
 
 
@@ -229,6 +219,12 @@ Template Name: Frontpage 1
 <?php if (function_exists('dynamic_sidebar') && dynamic_sidebar('sidebar-middle-top')) : ?><?php endif; ?>
 <?php if (function_exists('dynamic_sidebar') && dynamic_sidebar('sidebar-middle')) : ?><?php endif; ?>
 </div><!-- front-small-sidebar -->
+
+<br style="clear:both" />
+
+<div class="activityWrapper">
+  <?php require 'activity/activity-loop.php'; ?>
+</div>
 
 </div><!-- .frontpage-bottom -->
 
