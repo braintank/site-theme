@@ -215,7 +215,7 @@ Template Name: Frontpage 1
 </div> <!-- List Wrap -->
 </div> <!-- tabs-container -->
 
-<div class="activityWrapper">
+<div id="front-activity-wrapper">
   <?php require 'activity/activity-loop.php'; ?>
 </div>
 
