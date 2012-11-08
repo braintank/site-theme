@@ -882,7 +882,7 @@ function widget($args, $instance) {  ?>
 			<input type="submit" name="wp-submit" id="front-login-submit" value="<?php _e( 'Log In', 'buddypress' ); ?>" tabindex="100" />
 			<input type="hidden" name="testcookie" value="1" />
 		</form>
-		<div style="margin-top:0.5em; color:white;"><a href="/register/">Register for an account</a></div>
+		<div style="margin-top:0.5em;"><a style="color:white;" href="/register/">Register for an account</a></div>
 
 		<?php do_action( 'bp_after_sidebar_login_form' ) ?>
 
