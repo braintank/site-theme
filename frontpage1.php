@@ -216,6 +216,7 @@ Template Name: Frontpage 1
 </div> <!-- tabs-container -->
 
 <div id="front-activity-wrapper">
+  <h2>Recent Activity</h2>
   <?php require 'activity/activity-loop.php'; ?>
 </div>
 
