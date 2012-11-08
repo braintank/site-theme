@@ -1,0 +1,245 @@
+@media screen and (max-width:970px)
+{
+#container { width:720px; }
+#container-single { width:720px; }
+#top-bar-center { width:720px; }
+#header { width:720px; }
+#header-bottom { width:720px; }
+#text1 { font-size:50px; margin-top:100px; }
+#text2 { font-size:32px; margin-top:65px; }
+#frontpage-info-center { width:720px; }
+#frontpage-info { font:12px Georgia; line-height:20px; }
+.page-template-frontpage1-php #frontpage-info, .page-template-frontpage2-php #frontpage-info { font:13px Georgia, Georgia; line-height:20px; }
+
+.wpcf7-form textarea { width:400px!important; }
+
+#navigation ul, #navigation ul ul { font:11px Georgia; }
+#navigation span { font:10px Droid Sans, Arial, Vardana; }
+#navigation ul li { padding:7px 9px; }
+#navigation ul ul { top:47px; }
+#navigation { margin-top:23px; }
+
+.page-template-frontpage1-php #content { width:460px; }
+.forums #content, .activity #content, .members #content { width:430px; }
+div#content { width:445px; }
+
+.front-box { width:85px; margin:0 29px 5px 0; }
+#front-boxes img { height:45px; }
+.front-box-title { font-size:12px; padding:1px 0 1px 0; }
+
+#front-boxes2 { width:100%; margin:20px 0 0 0; }
+#front-boxes-wider2 { width:109%; }
+.front-box2 { width:190px; float:left; margin:0 67px 15px 0; }
+.front-box-title2 { font-size:20px; margin:0 0 9px 0; font-family:Georgia; }
+
+.page-template-frontpage1-php #tabs-container { width:230px; }
+#tabs-container .tabs-nav { font-size:12px; }
+#tabs-container .tabs-nav li { margin: 0 10px 0 0; }
+#front-small-sidebar { margin-left:10px; }
+#footer-widgets { width:720px; }
+#footer-bottom { width:720px; }
+#footer-col1 { width:430px; }
+#footer .forum-lastposts { min-height:55px; width:410px; }
+.forum-lastposts .activity-content { width:325px; }
+#footer .forum-lastposts-avatar { margin:2px 15px 0px 0; }
+.topic-content { width:360px; }
+#reply_text { width:94%; }
+
+#page-title { margin-top:130px; font-size:36px; }
+
+.forum-head-author { margin-left:7px; }
+.forum-head-topic { margin-left:5px; }
+.forum-head-freshness { margin-left:195px; }
+.post-author img { width:30px; height:30px; }
+.topic-title { float:left; width:200px; }
+.topic-title a.forum-post-title { font:15px Georgia, Arial, sans-serif; }
+.topic-freshness { width:130px; }
+.topic-freshness img { width:20px; height:20px; }
+.last-poster-right { margin-left:30px; }
+
+.bp-user div#item-header div#item-header-content { width:220px; }
+div#item-header div#item-header-content { width:255px; float:left; }
+#item-header-avatar { width:160px; margin-right:15px; }
+#item-header-avatar img { width:160px; height:auto; }
+.single-group-box-image-container a.group-box-image { width:160px; height:100px; display:block; position:relative; } 
+.single-group-box-image-container { width:160px; height:100px; float:left; position:relative; }
+.members-sorting { width:200px; }
+#activity-filter-by, #forums-order-by { width:150px; }
+#members-order-by { width:130px; }
+input#members_search { width:100px!important; }
+
+.post-title { font-size:20px; } 
+.blog-post-left { width:60px; }
+.blog-post-left-date { width:60px; }
+.blog-post-left-month { font-size:18px; }
+.blog-post-left-day { font-size:30px; }
+.blog-post-right { width:340px; }
+div.thumbnail img { width:100%; height:auto; }
+
+.comment-body { width:720px; }
+.commentlist div.comment-content { width:500px; }
+ol.commentlist ul.children li .comment-body { padding-left:92px; width:627px; }
+ol.commentlist ul.children li ul li .comment-body { padding-left:154px; width:565px; }
+ol.commentlist ul.children li ul li ul li .comment-body { padding-left:216px; width:504px; }
+ol.commentlist ul.children li ul li ul li ul li .comment-body { padding-left:200px; width:258px; }
+ol.commentlist ul.children li ul  li ul li ul li ul li .comment-body { padding-left:200px; width:140px; }
+ol.commentlist ul.children li ul li ul li ul li ul li ul li .comment-body { padding-left:200px; width:60px; }
+ol.commentlist ul.children .comment-content { width:435px; }
+ol.commentlist ul.children ul .comment-content { width:372px; }
+ol.commentlist ul.children ul ul .comment-content { width:310px; }
+ol.commentlist ul.children ul ul ul .comment-content { width:110px; }
+ol.commentlist ul.children ul ul ul ul .comment-content { width:200px; }
+ol.commentlist ul.children ul ul ul ul ul .comment-content { width:100px; }
+#respond { width:720px; }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:765px)
+{
+
+#container { width:300px; }
+#container-single { width:300px; }
+#top-bar-center { width:300px; }
+#top-search-container { width:130px; }
+#top-bar-right form#searchform { width:105px; }
+#top-bar-right form#searchform #s { width:70px; }
+
+#header { width:300px; }
+#header-top { height:150px; }
+#logo { margin-left:80px; }
+#navigation-320 { display:block; float:left; margin:30px 0 0 80px; } 
+#navigation-320 select { font-size:14px; border: 1px solid #dedede; }
+#navigation-320 select option { font-size:12px; }
+#navigation { display:none; }
+#header-bottom { width:300px; }
+#text1 { font-size:36px; margin-top:50px; }
+#text2 { font-size:16px; margin-top:35px; }
+#text1 span { padding:6px 10px 8px 10px; line-height:1.6em; }
+#text2 span { padding:7px 10px; }
+#frontpage-info-center { width:300px; }
+#frontpage-info { font:12px Georgia; line-height:20px; }
+.page-template-frontpage1-php #frontpage-info, .page-template-frontpage2-php #frontpage-info { font:12px Georgia, Georgia; line-height:21px; }
+
+.wpcf7-form input { width:250px!important; }
+.wpcf7-form textarea { width:250px!important; }
+
+.page-template-frontpage1-php #content { width:100%; }
+.forums #content, .activity #content, .members #content { width:100%; }
+div#content { width:100%; }
+
+.group-box { margin:5px 0px 5px 40px!important; }
+
+div#sidebar { float: left; width: 100%; margin-top:10px; }
+#sidebar ul { width:260px; }
+ul#blog-categories-left { width:120px; }
+ul#blog-categories-right { width:120px; }
+#front-small-sidebar { float:left; margin-top:30px; width:280px; margin-left:0px!important; }
+
+.front-box { width:100px; margin:0 23px 15px 23px; }
+#front-boxes img { height:55px; }
+.front-box-title { font-size:12px; padding:1px 0 1px 0; }
+
+#front-boxes2 { width:100%; margin:20px 0 0 0; }
+#front-boxes-wider2 { width:109%; }
+.front-box2 { width:250px; float:left; margin:0 0px 25px 20px; }
+.front-box-title2 { font-size:20px; margin:0 0 9px 0; font-family:Georgia; }
+
+.page-template-frontpage1-php #tabs-container { width:100%; }
+#tabs-container .tabs-nav { font-size:12px; }
+#tabs-container .tabs-nav li { margin: 0 10px 0 0; }
+#front-small-sidebar { margin-left:10px; }
+
+#footer-widgets { width:300px; }
+#footer-bottom { width:300px; }
+#footer-col1 { width:100%; border-right:none; }
+#footer .forum-lastposts { min-height:55px; width:100%; }
+.forum-lastposts .activity-content { width:225px; }
+#footer .forum-lastposts-avatar { margin:2px 15px 0px 0; }
+#footer-col2 { margin-top:20px; margin-left: 0px; width:100%; }
+.footer-bottom-left img { width:25px; }
+.footer-bottom-right { font:11px Georgia; float:left; margin-top:15px; }
+
+#reply_text { width:94%; }
+
+#page-title { margin-top:70px; font-size:18px; line-height:2.3em; }
+
+.forum-head-author { margin-left:7px; }
+.forum-head-topic { margin-left:5px; }
+.forum-head-freshness { margin-left:105px; }
+.post-author img { width:20px; height:20px; }
+.topic-title { float:left; width:100px; }
+.topic-title a.forum-post-title { font:15px Georgia, Arial, sans-serif; }
+.topic-freshness { width:120px; }
+.topic-freshness img { width:15px; height:15px; }
+.last-poster-right { margin-left:20px; }
+.topic-freshness { margin-top:0px!important; }
+
+.topic-content { width:225px; }
+
+div#item-header div#item-header-content { width:270px; float:left; }
+#item-header-avatar { width:230px; margin-bottom:15px; }
+.bp-user #item-header-avatar img { width:160px; height:160px; }
+#item-header-avatar img { width:230px; height:135px; }
+.single-group-box-image-container a.group-box-image { width:230px; height:135px; display:block; position:relative; } 
+.single-group-box-image-container { width:230px; height:135px; float:left; position:relative; }
+
+#members-dir-search { width:300px; margin-bottom:30px; }
+#members-dir-search #members_search { width:210px!important; }
+.members-sorting { width:300px!important; }
+#activity-filter-by, #forums-order-by { width:300px!important; }
+#members-order-by { width:210px; }
+input#members_search { width:100px!important; }
+
+#whats-new-textarea { width:95%; }
+.standard-form #basic-details-section, .standard-form #blog-details-section, .standard-form #profile-details-section { width: 100%; }
+#page-login-form { width:90%; }
+#page-user-login { width:90%; }
+#page-user-pass { width:90%; }
+
+.post-title { font-size:20px; } 
+.blog-post-left { width:70px; margin:0 auto!important; float:none; }
+.blog-post-left-date { width:70px; }
+.blog-post-left-month { font-size:22px; }
+.blog-post-left-day { font-size:36px; }
+.blog-post-right { width:265px; margin:10px 0 0 0px!important; }
+div.thumbnail img { width:100%; height:auto; }
+
+.comment-body { width:300px; }
+.commentlist div.comment-content { width:230px; }
+ol.commentlist ul.children li .comment-body img { width:30px; height:30px;  }
+
+ol.commentlist ul.children li .comment-body { padding-left:30px; width:227px; }
+ol.commentlist ul.children li ul li .comment-body { padding-left:60px; width:197px; }
+ol.commentlist ul.children li ul li ul li .comment-body { padding-left:90px; width:170px; }
+ol.commentlist ul.children li ul li ul li ul li .comment-body { padding-left:120px; width:140px; }
+ol.commentlist ul.children li ul  li ul li ul li ul li .comment-body { padding-left:190px; width:110px; }
+ol.commentlist ul.children li ul li ul li ul li ul li ul li .comment-body { padding-left:150px; width:110px; }
+ol.commentlist ul.children .comment-content { width:180px; }
+ol.commentlist ul.children ul .comment-content { width:150px; }
+ol.commentlist ul.children ul ul .comment-content { width:120px; }
+ol.commentlist ul.children ul ul ul .comment-content { width:90px; }
+ol.commentlist ul.children ul ul ul ul .comment-content { width:60px; }
+ol.commentlist ul.children ul ul ul ul ul .comment-content { width:60px; }
+
+#respond { width:300px; }
+#respond input { width:260px; }
+#respond input#author, #respond input#email, #respond input#url { width:230px!important; }
+.comment-counter { display:none; }
+.thread-even .comment-body { background-image: none; }
+.thread-odd .comment-body { background-image: none; }
+li.thread-even ul.children .comment-body { background-image: none; }
+li.thread-odd ul.children .comment-body { background-image: none; }
+ol.commentlist div.comment-avatar-box { margin: 0 10px 0 0; border:3px solid #0c0b0b; }
+ol.commentlist div.comment-avatar-box img { width:40px; height:40px; }
+
+}
