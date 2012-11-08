@@ -61,7 +61,9 @@ Template Name: Frontpage 1
 
 
 
-
+<div class="activityWrapper">
+  <?php require 'activity/activity-loop.php'; ?>
+</div>
 
 
 
