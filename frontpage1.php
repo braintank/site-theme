@@ -215,16 +215,18 @@ Template Name: Frontpage 1
 </div> <!-- List Wrap -->
 </div> <!-- tabs-container -->
 
+<div class="activityWrapper">
+  <?php require 'activity/activity-loop.php'; ?>
+</div>
+
 <div id="front-small-sidebar">
 <?php if (function_exists('dynamic_sidebar') && dynamic_sidebar('sidebar-middle-top')) : ?><?php endif; ?>
 <?php if (function_exists('dynamic_sidebar') && dynamic_sidebar('sidebar-middle')) : ?><?php endif; ?>
 </div><!-- front-small-sidebar -->
 
-<br style="clear:both" />
 
-<div class="activityWrapper">
-  <?php require 'activity/activity-loop.php'; ?>
-</div>
+
+
 
 </div><!-- .frontpage-bottom -->
 
